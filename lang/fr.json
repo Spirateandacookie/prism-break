@@ -27,8 +27,8 @@
 
 
   "i18n-web-search": "Navigation web",
-  "i18n-duckduckgo-desc": "Anonymous, unlogged web searches.",
-  "i18n-startpage-desc": "Private, unlogged web searches.",
+  "i18n-duckduckgo-desc": "Recherches Web anonymes et sans connexion",
+  "i18n-startpage-desc": "Recherches Web privées et sans connexion",
   "i18n-seeksproject-desc": "Plateforme ouverte décentralisée pour la recherche collaborative.",
   "i18n-yacy-desc": "Navigation web acentrée.",
 
@@ -40,21 +40,21 @@
 
 
   "i18n-email-services": "Services de messagerie email",
-  "i18n-bitmessage-desc": "Encrypted, decentralized email server.",
-  "i18n-riseup-desc": "Comptes email sécurisée et privée.",
+  "i18n-bitmessage-desc": "Serveur mail chiffré et décentralisé",
+  "i18n-riseup-desc": "Boîte mail sécurisée et privée.",
 
 
 
-  "i18n-email-clients": "Clients de bureau email",
+  "i18n-email-clients": "Client mail de bureau",
   "i18n-icedove-desc": "Version libre de Mozilla Thunderbird.",
   "i18n-thunderbird-desc": "Application de messagerie email open-source.",
 
 
 
-  "i18n-email-encryption": "Email encryption",
+  "i18n-email-encryption": "Chiffrement de mail",
   "i18n-enigmail-desc": "Un plugin OpenPGP pour Thunderbird/Icedove.",
   "i18n-gnuprivacyguard-desc": "Implémentation libre de OpenPGP.",
-  "i18n-mailvelope-desc": "OpenPGP encryption for webmail.",
+  "i18n-mailvelope-desc": "Chiffrement OpenPGP pour webmail.",
   "i18n-webpg-desc": "GnuPG/PGP dans votre navigateur web.",
 
 
@@ -64,50 +64,50 @@
 
 
 
-  "i18n-cloud-storage": "Stockage cloud",
-  "i18n-owncloud-desc": "Cloud data in your control.",
-  "i18n-sparkleshare-desc": "Self-hosted version control and file sync.",
-  "i18n-tahoelafs-desc": "Free and open cloud storage system.",
+  "i18n-cloud-storage": "Stocker vos données à distance",
+  "i18n-owncloud-desc": "Des données dans le cloud, sous votre contrôle",
+  "i18n-sparkleshare-desc": Gestion de versions et synchronisation de fichiers auto-hébergés",
+  "i18n-tahoelafs-desc": "Système de stockage de données à distance libre et ouvert",
 
 
 
-  "i18n-social-networking": "Social networking",
-  "i18n-diaspora-desc": "Community-run, distributed social network.",
-  "i18n-friendica-desc": "Open source, free social web server.",
-  "i18n-gnusocial-desc": "Self-hosted, decentralized social network.",
-  "i18n-movim-desc": "Private, decentralized social network server.",
-  "i18n-pumpio-desc": "Self-hosted social stream server.",
-  "i18n-tent-desc": "Free, autonomous social network protocol.",
+  "i18n-social-networking": "Réseaux sociaux",
+  "i18n-diaspora-desc": "Réseau social distribué, géré par sa communauté",
+  "i18n-friendica-desc": "Serveur web social libre",
+  "i18n-gnusocial-desc": "Réseau social décentralisé et auto-hébergé",
+  "i18n-movim-desc": "Serveur de réseau social privé et décentralisé.",
+  "i18n-pumpio-desc": "Serveur de flux sociaux auto-hébergé.",
+  "i18n-tent-desc": "Protocole de réseau social libre et autonome.",
 
 
 
   "i18n-instant-messaging": "Messagerie instantanée",
-  "i18n-cryptocat-desc": "Private, encrypted online conversations.",
-  "i18n-otr-desc": "Install and enable in Pidgin for encrypted chat.",
-  "i18n-pidgin-desc": "Open source chat program.",
-  "i18n-adium-desc": "Pidgin for OS X (remember to enable OTR).",
-  "i18n-retroshare-desc": "Free, secure, P2P communications platform.",
+  "i18n-cryptocat-desc": "Conversations en ligne privées et chiffrées.",
+  "i18n-otr-desc": "À installer et activer dans Pidgin pour du chat chiffré.",
+  "i18n-pidgin-desc": "Programme libre de chat.",
+  "i18n-adium-desc": "Pidgin pour OS X (Rappelez-vous d'ctiver OTR).",
+  "i18n-retroshare-desc": "Plateforme de communication peer-to-peer libre et sécurisée.",
 
 
 
 
-  "i18n-video-voip": "Video conferencing/VOIP",
-  "i18n-jitsi-desc": "Encrypted text and video chat.",
-  "i18n-mumble-desc": "Encrypted, low-latency voice chat.",
+  "i18n-video-voip": "Vidéo-conférence, VOIP",
+  "i18n-jitsi-desc": "Chiffrement sur chat texte et vidéo.",
+  "i18n-mumble-desc": "Chat vocal chiffré à faible latence.",
 
 
 
-  "i18n-media-publishing": "Media publishing",
-  "i18n-gnumediagoblin-desc": "Decentralized media publishing platform.",
+  "i18n-media-publishing": "Publication de médias",
+  "i18n-gnumediagoblin-desc": "Plateforme de publication décentralisée.",
   "i18n-piwigo-desc": "Plateforme libre de galerie photo.",
   "i18n-wordpress-desc": "CMS libre pour site web et blog.",
-  "i18n-zenphoto-desc": "Free media website CMS.",
+  "i18n-zenphoto-desc": "Système de management de contenus libre pour site web.",
 
 
 
-  "i18n-document-collaboration": "Document collaboration",
-  "i18n-ethercalc-desc": "Multi-user spreadsheet server.",
-  "i18n-etherpad-desc": "Open source, real-time collaborative documents.",
+  "i18n-document-collaboration": "Édition partagée de documents",
+  "i18n-ethercalc-desc": "Serveur de tableur multi-utilisateur.",
+  "i18n-etherpad-desc": "Édition de documents partagés en temps réel.",
 
 
 
